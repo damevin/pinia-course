@@ -1,0 +1,19 @@
+{ 
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Test backend",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "Test frontend",
+      "isFav": false
+    },
+    {
+      "id": 3,
+      "title": "Test mobile",
+      "isFav": false
+    }
+  ]
+}
